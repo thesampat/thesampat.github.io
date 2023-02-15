@@ -1,0 +1,533 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 15 Feb 2023 06:04:50 at https://www.classcentral.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -iC2 https://www.classcentral.com/ -O "/home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3" -n -%P -p7 -N0 -s2 -p7 -D -a -K0 -c4 -%k -r2 -%e1 -A25000000000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:04:50	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+06:14:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+06:14:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+06:15:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
+06:15:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
+06:15:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/art-and-design (from https://www.classcentral.com/)
+06:15:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
+06:15:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
+06:15:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cryptography (from https://www.classcentral.com/)
+06:24:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/quantum-computing (from https://www.classcentral.com/)
+06:24:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/distributed-systems (from https://www.classcentral.com/)
+06:24:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+06:25:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+06:25:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nutrition-and-wellness (from https://www.classcentral.com/)
+06:25:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/disease-and-disorders (from https://www.classcentral.com/)
+06:25:19	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
+06:25:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anatomy (from https://www.classcentral.com/)
+06:25:39	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
+06:25:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/statistics (from https://www.classcentral.com/)
+06:25:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/foundations-of-mathematics (from https://www.classcentral.com/)
+06:25:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+06:25:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/trigonometry (from https://www.classcentral.com/)
+06:26:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/algebra (from https://www.classcentral.com/)
+06:26:14	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
+06:26:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/combinatorics (from https://www.classcentral.com/)
+06:26:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mathematical-logic (from https://www.classcentral.com/)
+06:26:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linear-programming (from https://www.classcentral.com/)
+06:26:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/finance (from https://www.classcentral.com/)
+06:27:11	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
+06:27:11	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/strategic-management (from https://www.classcentral.com/)
+06:27:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-intelligence (from https://www.classcentral.com/)
+06:27:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/accounting (from https://www.classcentral.com/)
+06:27:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-resources (from https://www.classcentral.com/)
+06:27:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+06:27:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-thinking (from https://www.classcentral.com/)
+06:28:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+06:28:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/csr (from https://www.classcentral.com/)
+06:28:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
+06:28:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/innovation (from https://www.classcentral.com/)
+06:28:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/operations-management (from https://www.classcentral.com/)
+06:28:33	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/literature (from https://www.classcentral.com/)
+06:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
+06:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/philosophy (from https://www.classcentral.com/)
+06:28:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
+06:29:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
+06:29:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
+06:29:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
+06:29:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
+06:29:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/library-science (from https://www.classcentral.com/)
+06:29:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reading (from https://www.classcentral.com/)
+06:29:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/electrical-engineering (from https://www.classcentral.com/)
+06:29:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
+06:29:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/civil-engineering (from https://www.classcentral.com/)
+06:30:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nanotechnology (from https://www.classcentral.com/)
+06:30:09	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/gis (from https://www.classcentral.com/)
+06:30:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/manufacturing (from https://www.classcentral.com/)
+06:30:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
+06:30:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
+06:30:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+06:30:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/aerospace-engineering (from https://www.classcentral.com/)
+06:31:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+06:31:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+06:31:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+06:31:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+06:31:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+06:31:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/applied-science (from https://www.classcentral.com/)
+06:31:37	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/forensic-science (from https://www.classcentral.com/)
+06:31:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
+06:32:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
+06:32:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+06:32:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/test-prep (from https://www.classcentral.com/)
+06:32:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+06:32:29	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
+06:32:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+06:32:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+06:33:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+06:33:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+06:33:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sustainability (from https://www.classcentral.com/)
+06:33:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+06:33:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+06:33:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/music (from https://www.classcentral.com/)
+06:33:32	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+06:33:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+06:33:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bioinformatics (from https://www.classcentral.com/)
+06:34:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-mining (from https://www.classcentral.com/)
+06:34:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+06:34:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+06:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+06:34:23	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/web-development (from https://www.classcentral.com/)
+06:34:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/game-development (from https://www.classcentral.com/)
+06:34:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+06:34:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cloud-computing (from https://www.classcentral.com/)
+06:34:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
+06:35:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
+06:35:17	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
+06:35:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cybersecurity (from https://www.classcentral.com/)
+06:35:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+06:35:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-forensics (from https://www.classcentral.com/)
+06:35:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
+06:35:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+06:36:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devsecops (from https://www.classcentral.com/)
+06:36:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
+06:36:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+06:36:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/red-team (from https://www.classcentral.com/)
+06:38:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/rome-7801 (from https://www.classcentral.com/)
+06:38:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+06:43:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/linkedin-learning (from https://www.classcentral.com/)
+06:45:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+06:48:17	Error: 	Exit requested by shell or user
+06:48:18	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/wp-content/uploads/2023/01/domestika-homepage-2023-tall.png
+06:48:19	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+06:48:19	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+06:48:20	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+06:48:20	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+06:48:20	Warning: 	File not added due to mirror cancel: https://www.facebook.com/robots.txt
+06:48:20	Warning: 	File not added due to mirror cancel: https://www.youtube.com/robots.txt
+06:48:21	Warning: 	File not added due to mirror cancel: https://us-central1-class-central-prod.cloudfunctions.net/robots.txt
+06:48:21	Error: 	"Forbidden" (403) at link https://us-central1-class-central-prod.cloudfunctions.net/extract (from https://www.classcentral.com/)
+06:48:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+06:48:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+06:48:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+06:48:22	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+06:48:23	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+06:48:23	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+06:48:23	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+06:48:23	Warning: 	File not added due to mirror cancel: https://m.facebook.com/robots.txt
+06:48:23	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+06:48:23	Warning: 	File not added due to mirror cancel: static.getclicky.com/robots.txt
+06:48:23	Warning: 	File not added due to mirror cancel: abs.twimg.com/robots.txt
+06:48:23	Error: 	"Not Found" (404) at link abs.twimg.com/ (from https://twitter.com/classcentral)
+06:48:23	Warning: 	File not added due to mirror cancel: api.twitter.com/robots.txt
+06:48:23	Warning: 	Moved Permanently for api.twitter.com/
+06:48:23	Warning: 	Redirected link is identical because of 'URL Hack' option: api.twitter.com/ and https://api.twitter.com/
+06:48:23	Warning: 	File has moved from api.twitter.com/ to https://api.twitter.com/
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/api.twitter.com/index.html
+06:48:23	Warning: 	File not added due to mirror cancel: pbs.twimg.com/robots.txt
+06:48:23	Error: 	"Bad Request" (400) at link pbs.twimg.com/ (from https://twitter.com/classcentral)
+06:48:23	Warning: 	File not added due to mirror cancel: t.co/robots.txt
+06:48:23	Warning: 	Moved Permanently for t.co/
+06:48:23	Warning: 	Redirected link is identical because of 'URL Hack' option: t.co/ and https://t.co/
+06:48:23	Warning: 	File has moved from t.co/ to https://t.co/
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/t.co/index.html
+06:48:23	Warning: 	File not added due to mirror cancel: video.twimg.com/robots.txt
+06:48:23	Error: 	"Bad Request" (400) at link video.twimg.com/ (from https://twitter.com/classcentral)
+06:48:23	Warning: 	File not added due to mirror cancel: https://static.licdn.com/robots.txt
+06:48:23	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/static.licdn.com/aero-v1/sc/h/9wn873un00oj7ry63c5sj2zkt.css
+06:48:23	Warning: 	File not added due to mirror cancel: https://media.licdn.com/robots.txt
+06:48:23	Warning: 	File not added due to mirror cancel: https://github.githubassets.com/robots.txt
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/index.html
+06:48:23	Warning: 	File not added due to mirror cancel: https://avatars.githubusercontent.com/robots.txt
+06:48:23	Warning: 	Found for https://avatars.githubusercontent.com/
+06:48:23	Warning: 	File has moved from https://avatars.githubusercontent.com/ to https://github.com
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/avatars.githubusercontent.com/index.html
+06:48:23	Warning: 	File not added due to mirror cancel: https://github-cloud.s3.amazonaws.com/robots.txt
+06:48:23	Error: 	"Forbidden" (403) at link https://github-cloud.s3.amazonaws.com/ (from https://github.com/classcentral)
+06:48:23	Warning: 	File not added due to mirror cancel: https://user-images.githubusercontent.com/robots.txt
+06:48:23	Error: 	"Forbidden" (403) at link https://user-images.githubusercontent.com/ (from https://github.com/classcentral)
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subjects4658.html
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/cs4658.html
+06:48:23	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/health4658.html
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/maths4658.html
+06:48:24	Warning: 	File not added due to mirror cancel: https://d3f1iyfxxz8i1e.cloudfront.net/robots.txt
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/engineering4658.html
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/social-sciences4658.html
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/programming-and-software-development4658.html
+06:48:24	Error: 	"Service Temporarily Unavailable" (503) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+06:48:24	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/robots.txt
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index7b9d.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index4928.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/indexacb4.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index1a28.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/indexc39c.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index5f7b.html
+06:48:24	Warning: 	Moved Permanently for https://www.classcentral.com/report/semrush-icon-no-bg/
+06:48:24	Warning: 	File has moved from https://www.classcentral.com/report/semrush-icon-no-bg/ to https://www.classcentral.com/report/wp-content/uploads/2023/01/semrush-icon-no-bg.png
+06:48:24	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/semrush-icon-no-bg/index.html
+06:48:25	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+06:48:25	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+06:48:25	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index4541.html
+06:48:26	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+06:48:26	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+06:48:26	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index5cd6.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/mooc-course-report/february-2023.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/starting-this-month4658.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/new-online-courses/january-20234658.html
+06:48:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84744
+06:48:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=84744 to https://www.classcentral.com/report/most-popular-february-2023/
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index0ade.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/ai4658.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+06:48:27	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/internet-of-things4658.html
+06:48:28	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/information-technology4658.html
+06:48:28	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/public-health4658.html
+06:48:28	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/nursing4658.html
+06:48:28	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/cme4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/geometry4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/management-and-leadership4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/entrepreneurship4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/industry-specific4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/project-management4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/business-software4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/customer-service4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/history4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/language-learning4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/esl4658.html
+06:48:29	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/journalism4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/food4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/robotics4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/cad4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/chemistry4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/astronomy4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/materials-science4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/k124658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/stem4658.html
+06:48:30	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/online-education4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/economics4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/political-science4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/human-rights4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/visual-arts4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/big-data4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/databases4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/software-development4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/career-development4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/ethical-hacking4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/malware-analysis4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/threat-intelligence4658.html
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index4821.html
+06:48:31	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+06:48:31	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85347
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=85347 to https://www.classcentral.com/report/most-popular-march-2023/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/indexa750.html
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85322
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=85322 to https://www.classcentral.com/report/best-free-prolog-courses/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index3be8.html
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index4337.html
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85287
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=85287 to https://www.classcentral.com/report/review-goldman-sachs-10000-women/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index380f.html
+06:48:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85250
+06:48:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=85250 to https://www.classcentral.com/report/best-japanese-courses/
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index7a82.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/subject/it-certifications4658.html
+06:48:31	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/stanford4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/mit4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/institution/google4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/institution/amazon4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/category/best-courses/page/2/index.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index5a97.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/harvard4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/iit-kharagpur4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/rice4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/iitm4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/columbia4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/edinburgh4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/purdue4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/penn4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/duke4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/university/umich4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/coursera4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/edx4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/futurelearn4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/udemy4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/swayam4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/provider/skillshare4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/institution/microsoft4658.html
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/institution/ibm4658.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71534
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=71534 to https://www.classcentral.com/report/harvard-cs50-guide/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index5ea4.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=69630
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=69630 to https://www.classcentral.com/report/chinese-mooc-platforms/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index7475.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85107
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=85107 to https://www.classcentral.com/report/futurelearn-expands-paywall/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index7c68.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73933
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=73933 to https://www.classcentral.com/report/udemy-by-the-numbers/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index197b.html
+06:48:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84789
+06:48:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=84789 to https://www.classcentral.com/report/domestika-layoffs/
+06:48:32	Warning: 	Warning: store text/html without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/index7304.html
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-cyrillic-ext.woff2
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-italic-cyrillic-ext.woff2 (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-greek-ext.woff2
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/fonts/source-sans-pro-hinted/source-sans-pro-400-regular-greek-ext.woff2 (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/rankings
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/rankings (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/most-popular-online-courses/
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/best-free-online-courses-2022/
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/coursera-free-online-courses/
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/free-certificates/
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/free-certificates/ (from https://www.classcentral.com/)
+06:48:32	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/author/dhawal/
+06:48:32	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+06:48:33	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/it-certifications
+06:48:33	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/it-certifications (from https://www.classcentral.com/)
+06:48:33	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/university/mit
+06:48:33	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/university/mit (from https://www.classcentral.com/)
+06:48:33	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/institution/google
+06:48:33	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+06:48:33	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/institution/amazon
+06:48:33	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/institution/amazon (from https://www.classcentral.com/)
+06:48:33	Error: 	"Not Found" (404) at link https://www.classcentral.com/images/illustrations/homepage-discover-01.png (from https://www.classcentral.com/)
+06:48:33	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/harvard-cs50-guide/
+06:48:33	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/harvard-cs50-guide/ (from https://www.classcentral.com/)
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/schemaorg.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/devnote.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/prettify.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/sdotermpage.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/pretty-markup/style.css
+06:48:34	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/schema.org/docs/clipboard/clippy.svg
+06:48:34	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89da.svg
+06:48:34	Error: 	"Not Found" (404) at link abs.twimg.com/favicons/twitter.2.ico (from https://twitter.com/classcentral)
+06:48:34	Warning: 	File not added due to mirror cancel: https://github.githubassets.com/robots.txt
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/light-719f1193e0c0.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/dark-0c343b529849.css
+06:48:34	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/primer-3e0c23f0f191.css
+06:48:35	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/global-3cf05c0b86b4.css
+06:48:35	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/github-546179517227.css
+06:48:35	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/assets/profile-085697a49485.css
+06:48:35	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/pinned-octocat.svg
+06:48:35	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/github.githubassets.com/favicons/favicon.svg
+06:48:35	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/images/promobar/ai-blue.svg
+06:48:35	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/images/promobar/star-blue.svg
+06:48:36	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+06:48:36	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+06:48:36	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/health?page=2
+06:48:36	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/health?page=2 (from https://www.classcentral.com/subject/health)
+06:48:36	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+06:48:37	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/maths3e32.svg
+06:48:37	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/engineering48f7.svg
+06:48:37	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/social-sciences0f8d.svg
+06:48:38	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/programming-and-software-development?page=2
+06:48:38	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/programming-and-software-development?page=2 (from https://www.classcentral.com/subject/programming-and-software-development)
+06:48:38	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/programming-and-software-development5d8b.svg
+06:48:43	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+06:48:43	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+06:48:43	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/xmlrpc.php?rsd
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+06:48:43	Warning: 	Warning: store text/css without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.38e7f8e0cb616b2b633f.css
+06:48:43	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/robots.txt
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+06:48:43	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=71214
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=71214 (from https://www.classcentral.com/report/most-popular-online-courses/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/2ea65e8cd3fb1d2ef4970df6eeb811bd?s=35&d=mm&r=g
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/2ea65e8cd3fb1d2ef4970df6eeb811bd?s=35&d=mm&r=g (from https://www.classcentral.com/report/most-popular-online-courses/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=77094
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=77094 (from https://www.classcentral.com/report/best-free-online-courses-2022/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=73773
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=73773 (from https://www.classcentral.com/report/best-free-online-courses-2021/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/5b61115fa66d3adf35cbd1a3233cf657?s=35&d=mm&r=g
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/5b61115fa66d3adf35cbd1a3233cf657?s=35&d=mm&r=g (from https://www.classcentral.com/report/best-free-online-courses-2021/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=77063
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=77063 (from https://www.classcentral.com/report/most-popular-courses-2022/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/04a08820f6e798369716fbbe4b48b791?s=35&d=mm&r=g
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/04a08820f6e798369716fbbe4b48b791?s=35&d=mm&r=g (from https://www.classcentral.com/report/most-popular-courses-2022/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=73299
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=73299 (from https://www.classcentral.com/report/100-most-popular-online-courses-2021/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/b662a3f1a8bb4ed440c3bb4dfa3f4088?s=35&d=mm&r=g
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/b662a3f1a8bb4ed440c3bb4dfa3f4088?s=35&d=mm&r=g (from https://www.classcentral.com/report/100-most-popular-online-courses-2021/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=66895
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=66895 (from https://www.classcentral.com/report/coursera-free-online-courses/)
+06:48:43	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=74608
+06:48:43	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=74608 (from https://www.classcentral.com/report/free-certificates/)
+06:48:44	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/b6cca7d525ca144943405d0226ea8c43?s=35&d=mm&r=g
+06:48:44	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/b6cca7d525ca144943405d0226ea8c43?s=35&d=mm&r=g (from https://www.classcentral.com/report/free-certificates/)
+06:48:44	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=74324
+06:48:44	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=74324 (from https://www.classcentral.com/report/free-google-certifications/)
+06:48:44	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/c4e6fb80cd8ac6eca47ea276b296b1ea?s=35&d=mm&r=g
+06:48:44	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/c4e6fb80cd8ac6eca47ea276b296b1ea?s=35&d=mm&r=g (from https://www.classcentral.com/report/free-google-certifications/)
+06:48:44	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=84744
+06:48:44	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=84744 (from https://www.classcentral.com/report/most-popular-february-2023/)
+06:48:44	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/ai?page=2
+06:48:44	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/ai?page=2 (from https://www.classcentral.com/subject/ai)
+06:48:45	Warning: 	File not added due to mirror cancel: https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/48073c114c8a.
+06:48:45	Error: 	"mirror stopped by user" (-1) at link https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/48073c114c8a. (from https://www.classcentral.com/subject/ai)
+06:48:45	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fd9c6f660b564.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=1e526f2a28877c92ef50523e3a2be804 (from https://www.classcentral.com/subject/public-health)
+06:48:45	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/nursing?page=2
+06:48:45	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/nursing?page=2 (from https://www.classcentral.com/subject/nursing)
+06:48:46	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/management-and-leadership?page=2
+06:48:46	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/management-and-leadership?page=2 (from https://www.classcentral.com/subject/management-and-leadership)
+06:48:47	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/industry-specific?page=2
+06:48:47	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/industry-specific?page=2 (from https://www.classcentral.com/subject/industry-specific)
+06:48:47	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/business-software?page=2
+06:48:47	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/business-software?page=2 (from https://www.classcentral.com/subject/business-software)
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/customer-service?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/customer-service?page=2 (from https://www.classcentral.com/subject/customer-service)
+06:48:48	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/25b825f48b362c86.svg
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/history?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/history?page=2 (from https://www.classcentral.com/subject/history)
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/esl?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/esl?page=2 (from https://www.classcentral.com/subject/esl)
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/journalism?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/journalism?page=2 (from https://www.classcentral.com/subject/journalism)
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/cad?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/cad?page=2 (from https://www.classcentral.com/subject/cad)
+06:48:48	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/chemistry?page=2
+06:48:48	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/chemistry?page=2 (from https://www.classcentral.com/subject/chemistry)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/astronomy?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/astronomy?page=2 (from https://www.classcentral.com/subject/astronomy)
+06:48:49	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fa921d43d68ec.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=b012e7c58af064fa45183912ba9c2909 (from https://www.classcentral.com/subject/astronomy)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/materials-science?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/materials-science?page=2 (from https://www.classcentral.com/subject/materials-science)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/k12?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/k12?page=2 (from https://www.classcentral.com/subject/k12)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/stem?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/stem?page=2 (from https://www.classcentral.com/subject/stem)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/online-education?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/online-education?page=2 (from https://www.classcentral.com/subject/online-education)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/economics?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/economics?page=2 (from https://www.classcentral.com/subject/economics)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/political-science?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/political-science?page=2 (from https://www.classcentral.com/subject/political-science)
+06:48:49	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/political-science)
+06:48:49	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/human-rights?page=2
+06:48:49	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/human-rights?page=2 (from https://www.classcentral.com/subject/human-rights)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/visual-arts?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/visual-arts?page=2 (from https://www.classcentral.com/subject/visual-arts)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/big-data?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/big-data?page=2 (from https://www.classcentral.com/subject/big-data)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/databases?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/databases?page=2 (from https://www.classcentral.com/subject/databases)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/software-development?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/software-development?page=2 (from https://www.classcentral.com/subject/software-development)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/career-development?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/career-development?page=2 (from https://www.classcentral.com/subject/career-development)
+06:48:50	Warning: 	Warning: store image/svg+xml without scan: /home/sam/Desktop/Codes/CodingAllStars2/CodingAllStars3/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/bbd8d0c44792baa1.svg
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/malware-analysis?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/malware-analysis?page=2 (from https://www.classcentral.com/subject/malware-analysis)
+06:48:50	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/subject/threat-intelligence?page=2
+06:48:50	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/subject/threat-intelligence?page=2 (from https://www.classcentral.com/subject/threat-intelligence)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=84384
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=84384 (from https://www.classcentral.com/report/2022-year-in-review/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/author/page/2/
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=85347
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=85347 (from https://www.classcentral.com/report/most-popular-march-2023/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-march-2023%2F&format=xml
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-march-2023%2F&format=xml (from https://www.classcentral.com/report/most-popular-march-2023/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=85322
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=85322 (from https://www.classcentral.com/report/best-free-prolog-courses/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=73844
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=73844 (from https://www.classcentral.com/report/udemy-top-courses/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=85287
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=85287 (from https://www.classcentral.com/report/review-goldman-sachs-10000-women/)
+06:48:51	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=85250
+06:48:51	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=85250 (from https://www.classcentral.com/report/best-japanese-courses/)
+06:48:52	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/collection/sustainability-online-courses)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/institution/google?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/institution/google?page=2 (from https://www.classcentral.com/institution/google)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/institution/amazon?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/institution/amazon?page=2 (from https://www.classcentral.com/institution/amazon)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/category/best-courses/page/2/
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/category/best-courses/page/2/ (from https://www.classcentral.com/report/category/best-courses/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=84167
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=84167 (from https://www.classcentral.com/report/online-learning-deals/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/university/harvard?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/university/harvard?page=2 (from https://www.classcentral.com/university/harvard)
+06:48:52	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F7edef2c71a55.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=2a3d64ece3ab489aa639d53afed6cbaf (from https://www.classcentral.com/university/rice)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/university/purdue?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/university/purdue?page=2 (from https://www.classcentral.com/university/purdue)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/university/penn?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/university/penn?page=2 (from https://www.classcentral.com/university/penn)
+06:48:52	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/university/umich)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/provider/coursera?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/provider/coursera?page=2 (from https://www.classcentral.com/provider/coursera)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/provider/skillshare?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/provider/skillshare?page=2 (from https://www.classcentral.com/provider/skillshare)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/institution/ibm?page=2
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/institution/ibm?page=2 (from https://www.classcentral.com/institution/ibm)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=71534
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=71534 (from https://www.classcentral.com/report/harvard-cs50-guide/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=69630
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=69630 (from https://www.classcentral.com/report/chinese-mooc-platforms/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/0cd5f1af7edd63fceabfab13e179e151?s=35&d=mm&r=g
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/0cd5f1af7edd63fceabfab13e179e151?s=35&d=mm&r=g (from https://www.classcentral.com/report/chinese-mooc-platforms/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=85107
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=85107 (from https://www.classcentral.com/report/futurelearn-expands-paywall/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/d4ba5db50472bd79a3674282b794e50a?s=35&d=mm&r=g
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/d4ba5db50472bd79a3674282b794e50a?s=35&d=mm&r=g (from https://www.classcentral.com/report/futurelearn-expands-paywall/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=73933
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=73933 (from https://www.classcentral.com/report/udemy-by-the-numbers/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-by-the-numbers%2F&format=xml
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.classcentral.com%2Freport%2Fudemy-by-the-numbers%2F&format=xml (from https://www.classcentral.com/report/udemy-by-the-numbers/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://secure.gravatar.com/avatar/24471980a3ba6b877a29b0d546620f9d?s=35&d=mm&r=g
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://secure.gravatar.com/avatar/24471980a3ba6b877a29b0d546620f9d?s=35&d=mm&r=g (from https://www.classcentral.com/report/udemy-by-the-numbers/)
+06:48:52	Warning: 	File not added due to mirror cancel: https://www.classcentral.com/report/?p=84789
+06:48:52	Error: 	"mirror stopped by user" (-1) at link https://www.classcentral.com/report/?p=84789 (from https://www.classcentral.com/report/domestika-layoffs/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 minutes 2 seconds : 2519 links scanned, 2331 files written (255186298 bytes overall) [124809577 bytes received at 47240 bytes/sec], 158837056 bytes transferred using HTTP compression in 371 files, ratio 14%, 6.2 requests per connection
+(222 errors, 300 warnings, 0 messages)

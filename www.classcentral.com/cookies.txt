@@ -1,0 +1,31 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.classcentral.com	TRUE	/report/	FALSE	1999999999	ppwp_wp_session	67c7423786a2d9e3b96e837c55537874%7C%7C1676424985%7C%7C1676424625
+www.classcentral.com	TRUE	/	FALSE	1999999999	PHPSESSID	24bc34l4goqqf0f9tn93hjk3p8
+www.classcentral.com	TRUE	/	FALSE	1999999999	samesite	lax
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:4725940603563423124
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=TGST00:s=T:r=T:a=T:p=T:g=3051:u=1:x=1:i=1676421301:t=1676507701:v=2:sig=AQGsZOcpvPIDaou2C5-c20hCfy6Jarj7"
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	tnqvEGc8o1eNc8yjIS8TUn09u3rAH7pU5RATzQrKMy2IhXtUpDDB9XuLTHwQDcF8Sdxn0%2FQGvhv67BKnYelZkuDqh7Qp2PMXZkzO7Ik9xWpzfXyC%2FpBzZKaB1boxFbJxk%2FvqvqcypK5p4wA6RmGnNxAyYxhXjrKoJBLF0N2ige2aw7R%2F1yS7UyW7%2BGvQvITY2BOB%2B52JdGDk%2FI1gbjJ9IHnm8xMtFf9P66OiL%2FVRqZ57syE9CvEkNP5Qy1NEVxZ3txg8UbwyOkKtPePl5PseYA%3D%3D--2b1RCtB03OZkSXYD--yeUGFFaEodX4GFTihssQ9g%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1096656222.1676421303
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	EpEwu34ukUj10Ib9HkyL2XLA65XfVCeCo5SxKsnyK.s-1676421338-0-AZy/nzocyst3YSlE5JqaPMwNhE4L+JIFzrJDl95sJq7GiFsH7/h+IzU1qDP+MFBgXY7PP+wfjj4d5W/bztFVgG8=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	gijSo4Jb2xQ
+.youtube.com	TRUE	/	FALSE	1999999999	DEVICE_INFO	ChxOekl3TURFM05qTTVPREkxTVRjek16Z3pOUT09EMnUsJ8GGMnUsJ8G
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	PPcmfephZHs
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+.facebook.com	TRUE	/	FALSE	1999999999	datr	WSrsY2ELlwljT7DuwxXyAWr3
+.facebook.com	TRUE	/	FALSE	1999999999	sb	WSrsYxFI8pY4aoEPIjFQ3eqy
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167642174510040247
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167642174510040247
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_CMDMLrEC5d8RpUptIfk2uw=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167642174510040247
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&d08a3993-27d0-4062-812d-eddd654b7124"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&2023021500423093f9c140-12bd-4496-8a7e-1a480a9e4d78AQGTE6tt9XMhuUR5uX7q4W5PTe8scQgu"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
