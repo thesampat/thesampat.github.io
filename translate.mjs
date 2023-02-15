@@ -26,28 +26,28 @@ let eles = ['p','h1' ,'h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'span', 'a', 'div'
 
 console.log('text')
 
-// eles.map(el=>{
+eles.map(el=>{
 
-//     let elements = document.querySelectorAll(el)
+    let elements = document.querySelectorAll(el)
 
-//     elements.forEach(ell => {
+    elements.forEach(ell => {
 
-//         Array.from(ell.childNodes).map(async (e)=>{
+        Array.from(ell.childNodes).map(async (e)=>{
 
-//         let text = e.data
+        let text = e.data
 
-//         if(text==undefined) return false;
+        if(text==undefined) return false;
 
-//         let translated_text = await Translate(text)
+        let translated_text = await Translate(text)
 
-//         e.data = translated_text
+        e.data = translated_text
     
-//         })     
+        })     
     
 
-// });
+});
    
-// })
+})
 
 
 
