@@ -24,7 +24,7 @@ const Translate=(string)=>{
 
 let eles = ['p','h1' ,'h2', 'h3', 'h4', 'h5', 'h6', 'strong', 'span', 'a', 'div', 'li']
 
-console.log('text_check')
+console.log('text_check2')
 
 eles.map(el=>{
 
